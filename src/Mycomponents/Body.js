@@ -28,31 +28,42 @@ export const Body = (props) => {
             >
               <Tab eventKey="All Events" title="All Events">
               <div class="show-event">
+                <div class="tab-conatiner">
                   <Subeventlist event_category={"ALL_EVENTS"} tag_list={tag_list}></Subeventlist>
+                  </div>
                   <Tags tags_list={tag_list} catg={"all"}></Tags>
                 </div>
               </Tab>
               <Tab eventKey="Webinar" title="Webinar">
               <div class="show-event">
+              <div class="tab-conatiner">
                 <Subeventlist event_category={"WEBINAR"} tag_list={tag_list}></Subeventlist>
+                </div>
                 <Tags tags_list={tag_list} catg={"webinar"}></Tags>
                 </div>
               </Tab>
               <Tab eventKey="Coding Events" title="Coding Events">
               <div class="show-event">
+              <div class="tab-conatiner">
                 <Subeventlist event_category={"CODING_EVENT"} tag_list={tag_list}></Subeventlist>
+                </div>
                 <Tags tags_list={tag_list} catg={"coding"}></Tags>
                 </div>
               </Tab>
               <Tab eventKey="Bootcamp" title="Bootcamp Events">
+
               <div class="show-event">
+              <div class="tab-conatiner">
                 <Subeventlist event_category={"BOOTCAMP_EVENTS"} tag_list={tag_list}></Subeventlist>
+                </div>
                 <Tags tags_list={tag_list} catg={"Bootcamp"}></Tags>
                 </div>
               </Tab>
               <Tab eventKey="Workshop" title="Workshop">
               <div class="show-event">
+              <div class="tab-conatiner">
                 <Subeventlist event_category={"WORKSHOP"} tag_list={tag_list}></Subeventlist>
+                </div>
                 <Tags tags_list={tag_list} catg={"workshop"}></Tags>
                 </div>
               </Tab>
