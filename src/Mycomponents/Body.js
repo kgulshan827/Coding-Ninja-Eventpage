@@ -117,7 +117,6 @@ const taglist=new Set()
       {tags.map((onevent) => {
       //  console.log(onevent);
         console.log(taglist)
-
         return (
           <div className="tags">
             <p taglist={taglist}

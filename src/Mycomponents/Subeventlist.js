@@ -17,10 +17,14 @@ export const Subeventlist = (props) => {
             </div>
         </Tab>
         <Tab eventKey="Archived" title="Archived">
+        <div className="events-body">
             <Subevents event_category={props.event_category} event_sub_category={"Archived"} tag_list={props.tag_list} ></Subevents>
+        </div>
         </Tab>
         <Tab eventKey="All Times Favourite" title="All Times Favourite">
+        <div className="events-body">
         <Subevents event_category={props.event_category} event_sub_category={"All Time Favorites"} tag_list={props.tag_list}></Subevents>
+        </div>
         </Tab>
       </Tabs>
       

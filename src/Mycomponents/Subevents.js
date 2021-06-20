@@ -29,7 +29,7 @@ export const Subevents = (props) => {
       getAlllist();
     }, []);
     
-    //console.log(url)
+    console.log(url)
     const getAlllist = () => {
       axios
         .get(`${url}`)
