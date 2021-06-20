@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Coding-Ninja-Eventpage/static/css/main.06d0bf68.chunk.css",
-    "main.js": "/Coding-Ninja-Eventpage/static/js/main.f13428ad.chunk.js",
-    "main.js.map": "/Coding-Ninja-Eventpage/static/js/main.f13428ad.chunk.js.map",
+    "main.css": "/Coding-Ninja-Eventpage/static/css/main.4c92a9ae.chunk.css",
+    "main.js": "/Coding-Ninja-Eventpage/static/js/main.ea4dabd0.chunk.js",
+    "main.js.map": "/Coding-Ninja-Eventpage/static/js/main.ea4dabd0.chunk.js.map",
     "runtime-main.js": "/Coding-Ninja-Eventpage/static/js/runtime-main.732dbd1b.js",
     "runtime-main.js.map": "/Coding-Ninja-Eventpage/static/js/runtime-main.732dbd1b.js.map",
     "static/css/2.61b4cb56.chunk.css": "/Coding-Ninja-Eventpage/static/css/2.61b4cb56.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.4f81681b.chunk.js.map": "/Coding-Ninja-Eventpage/static/js/3.4f81681b.chunk.js.map",
     "index.html": "/Coding-Ninja-Eventpage/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/Coding-Ninja-Eventpage/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.06d0bf68.chunk.css.map": "/Coding-Ninja-Eventpage/static/css/main.06d0bf68.chunk.css.map",
+    "static/css/main.4c92a9ae.chunk.css.map": "/Coding-Ninja-Eventpage/static/css/main.4c92a9ae.chunk.css.map",
     "static/js/2.d8ad5fe2.chunk.js.LICENSE.txt": "/Coding-Ninja-Eventpage/static/js/2.d8ad5fe2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.732dbd1b.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.d8ad5fe2.chunk.js",
-    "static/css/main.06d0bf68.chunk.css",
-    "static/js/main.f13428ad.chunk.js"
+    "static/css/main.4c92a9ae.chunk.css",
+    "static/js/main.ea4dabd0.chunk.js"
   ]
 }
